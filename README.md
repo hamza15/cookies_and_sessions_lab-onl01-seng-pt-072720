@@ -1,5 +1,6 @@
 # Cookies and Sessions Lab
 
+
 ## Objective
 
 We're going to make a very simple shopping cart, stored entirely in the session.
